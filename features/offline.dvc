@@ -1,0 +1,6 @@
+outs:
+- md5: e3d6128074d5a477c2a2f82419723765.dir
+  size: 721647
+  nfiles: 5
+  hash: md5
+  path: offline
